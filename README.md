@@ -4,7 +4,8 @@
 - 📫 How to reach me Discord Pikashru#0010
 - 💡 Fun fact I want to make an ARG (Alternate Reality Game)
 - 🤔 I also enjoy physics
-
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=pikashru/README.md)
