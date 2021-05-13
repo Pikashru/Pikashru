@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pikashru
 - ✨I’m interested in Hardwear  
-- 🌱 I’m currently learning Pythonic coding 
+- 🌱 I’m currently learning Pythonic code
 - 📫 How to reach me Discord Pikashru#0010
 
 
