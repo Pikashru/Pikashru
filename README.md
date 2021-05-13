@@ -4,9 +4,10 @@
 - 📫 How to reach me Discord Pikashru#0010
 - 💡 Fun fact I want to make an ARG (Alternate Reality Game)
 - 🤔 I also enjoy physics
+-
 
 
-
+![GitHub Contributors Image](https://contrib.rocks/image?repo=pikashru/README.md)
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Pikashru&show_icons=true)
 
