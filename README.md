@@ -8,7 +8,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=pikashru/README.md)
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Pikashru&show_icons=true)
  ![Profile View Counter](https://komarev.com/ghpvc/?username=Pikashru)
