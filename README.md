@@ -2,7 +2,7 @@
  
 
 - 👋 Hi, I’m @Pikashru
-- ✨I’m interested in Hardwear  
+- ✨I’m interested in Hardware  
 - 🌱 I’m currently learning Pythonic code
 - 📫 How to reach me Discord Pikashru#0010
 - 💡 Fun fact I want to make an ARG (Alternate Reality Game)
